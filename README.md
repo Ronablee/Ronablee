@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ronald
+## Olá! Eu sou o Ronald 👋
 
 <div align="center">
   <a href="https://github.com/ronablee">
