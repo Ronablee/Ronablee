@@ -22,4 +22,4 @@
   <a href="https://www.linkedin.com/in/ronald-vasconcelos-a001441aa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/Ronablee/Ronablee/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ronablee/ronablee/blob/output/github-contribution-grid-snake.svg)
